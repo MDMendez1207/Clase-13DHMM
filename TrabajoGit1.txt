@@ -1,0 +1,5 @@
+Este es un trabajo en Git 
+para subir a GitHub 
+y aprender a trabajar con Git y con Gente
+
+Creando funciones git y get para hacer algo en conjunto
